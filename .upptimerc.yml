@@ -14,7 +14,7 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Some other line...
-  cname: monitor.optbp.com
+  #cname: monitor.optbp.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /optbp-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
