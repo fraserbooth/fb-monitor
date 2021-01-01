@@ -9,7 +9,7 @@ sites:
   - name: UAT Clin
     url: https://optimise-bp-clinician-uat.azurewebsites.net/
   - name: UAT Auth
-    url: https://optimise-bp-auth-uat.azurewebsites.net/
+    url: https://optimise-bp-auth-uat.azurewebsites.net/Account/LoginWithPasscode
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
