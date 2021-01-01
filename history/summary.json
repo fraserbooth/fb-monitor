@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1030,
-    "timeDay": 1030,
-    "timeWeek": 1030,
-    "timeMonth": 1030,
-    "timeYear": 1030,
+    "time": 864,
+    "timeDay": 864,
+    "timeWeek": 864,
+    "timeMonth": 864,
+    "timeYear": 864,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1113,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113,
+    "time": 922,
+    "timeDay": 922,
+    "timeWeek": 922,
+    "timeMonth": 922,
+    "timeYear": 922,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/optimise-bp-auth-uat.azurewebsites.net",
     "slug": "uat-auth",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
-    "time": 1184,
-    "timeDay": 1184,
-    "timeWeek": 1184,
-    "timeMonth": 1184,
-    "timeYear": 1184,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 911,
+    "timeDay": 911,
+    "timeWeek": 911,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {
-      "2021-01-01": 50
+      "2021-01-01": 53
     }
   }
 ]
