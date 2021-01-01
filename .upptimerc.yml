@@ -12,20 +12,16 @@ sites:
     url: https://optimise-bp-auth-uat.azurewebsites.net/Account/LoginWithPasscode
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # Some other line...
   cname: monitor.optbp.com
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  #baseUrl: /optbp-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  logoUrl: https://optimise-bp-auth-uat.azurewebsites.net/images/logo-icon.png
+  name: OptBP Monitor
+  introTitle: "Welcome to the OptBP Status Page."
+  introMessage: This status page uses **real-time** data from our server.
+  #navbar:
+  #  - title: Status
+  #    href: /
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
