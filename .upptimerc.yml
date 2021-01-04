@@ -12,7 +12,8 @@ sites:
     url: https://optimise-bp-auth-uat.azurewebsites.net/Account/LoginWithPasscode
 
 status-website:
-  cname: monitor.optbp.com
+  #cname: monitor.optbp.com
+  baseUrl: /optbp-monitor
   logoUrl: https://optimise-bp-auth-uat.azurewebsites.net/images/logo-icon.png
   name: OptBP Monitor
   introTitle: "Welcome to the OptBP Status Page."
