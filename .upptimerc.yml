@@ -1,6 +1,6 @@
 # Change these first
 owner: fraserbooth # Your GitHub username
-repo: optbp-monitor # Your GitHub repository name
+repo: fb-monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -13,10 +13,10 @@ sites:
 
 status-website:
   #cname: monitor.optbp.com
-  baseUrl: /optbp-monitor
+  baseUrl: /fb-monitor
   logoUrl: https://optimise-bp-auth-uat.azurewebsites.net/images/logo-icon.png
-  name: OptBP Monitor
-  introTitle: "Welcome to the OptBP Status Page."
+  name: Frasers Monitor
+  introTitle: "Welcome to the Status Page."
   introMessage: This status page uses **real-time** data from our server.
   #navbar:
   #  - title: Status
