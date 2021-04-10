@@ -4,12 +4,30 @@ repo: fb-monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: OptBP Site
+    url: http://www.optbp.com/
+  - name: Remote Check In Site
+    url: https://remote-check-in.github.io/rci-site/
+  - name: Remote Check In Site
+    url: https://remote-check-in.github.io/rci-site/
+  - name: Palma
+    url: https://www.comebacktopalma.info/
   - name: UAT Pt
     url: http://optimise-bp-patient-uat.azurewebsites.net/
   - name: UAT Clin
     url: https://optimise-bp-clinician-uat.azurewebsites.net/
   - name: UAT Auth
     url: https://optimise-bp-auth-uat.azurewebsites.net/Account/LoginWithPasscode
+  - name: Aura-Soma
+    url: https://www.aura-soma.com/
+  - name: AEOS
+    url: https://www.aeos.net/
+  - name: ShireFarm
+    url: https://www.shirefarm.co.uk/
+  - name: Pegasus
+    url: http://www.pegasus-parfum.com/
+
+
 
 status-website:
   #cname: monitor.optbp.com
