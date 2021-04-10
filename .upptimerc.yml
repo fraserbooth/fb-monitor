@@ -8,8 +8,6 @@ sites:
     url: http://www.optbp.com/
   - name: Remote Check In Site
     url: https://remote-check-in.github.io/rci-site/
-  - name: Remote Check In Site
-    url: https://remote-check-in.github.io/rci-site/
   - name: Palma
     url: https://www.comebacktopalma.info/
   - name: UAT Pt
