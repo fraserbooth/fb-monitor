@@ -94,7 +94,7 @@
     "url": "https://optimise-bp-auth-uat.azurewebsites.net/Account/LoginWithPasscode",
     "icon": "https://favicons.githubusercontent.com/optimise-bp-auth-uat.azurewebsites.net",
     "slug": "uat-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
