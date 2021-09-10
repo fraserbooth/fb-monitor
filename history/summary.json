@@ -103,7 +103,7 @@
     "time": 676,
     "timeDay": 376,
     "timeWeek": 605,
-    "timeMonth": 1483,
+    "timeMonth": 1510,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2021-01-01": 98
@@ -132,17 +132,17 @@
     "url": "https://www.aeos.net/",
     "icon": "https://favicons.githubusercontent.com/www.aeos.net",
     "slug": "aeos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 296,
-    "timeWeek": 305,
-    "timeMonth": 333,
-    "timeYear": 368,
+    "time": 367,
+    "timeDay": 273,
+    "timeWeek": 295,
+    "timeMonth": 329,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   },
   {
