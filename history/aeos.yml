@@ -1,7 +1,7 @@
 url: https://www.aeos.net/
-status: up
-code: 200
-responseTime: 416
-lastUpdated: 2021-11-05T23:21:35.742Z
+status: down
+code: 502
+responseTime: 246
+lastUpdated: 2021-11-06T03:06:20.372Z
 startTime: Sat Apr 10 2021 07:21:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
