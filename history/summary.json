@@ -168,17 +168,17 @@
     "url": "http://www.pegasus-parfum.com/",
     "icon": "https://favicons.githubusercontent.com/www.pegasus-parfum.com",
     "slug": "pegasus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 950,
-    "timeDay": 1180,
-    "timeWeek": 953,
-    "timeMonth": 1019,
-    "timeYear": 950,
+    "time": 948,
+    "timeDay": 880,
+    "timeWeek": 906,
+    "timeMonth": 1005,
+    "timeYear": 948,
     "dailyMinutesDown": {}
   }
 ]
