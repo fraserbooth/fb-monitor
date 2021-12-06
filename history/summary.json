@@ -132,7 +132,7 @@
     "url": "https://www.aeos.net/",
     "icon": "https://favicons.githubusercontent.com/www.aeos.net",
     "slug": "aeos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -141,7 +141,7 @@
     "time": 363,
     "timeDay": 405,
     "timeWeek": 334,
-    "timeMonth": 346,
+    "timeMonth": 348,
     "timeYear": 363,
     "dailyMinutesDown": {}
   },
