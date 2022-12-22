@@ -76,18 +76,20 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "opt-bp-auth",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 476,
     "timeDay": 383,
     "timeWeek": 476,
     "timeMonth": 476,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-22": 1
+    }
   },
   {
     "name": "OptBP API",
@@ -96,7 +98,7 @@
     "slug": "opt-bp-api",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "97.53%",
+    "uptimeDay": "97.65%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
