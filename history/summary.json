@@ -22,19 +22,19 @@
     "url": "https://www.remotecheckin.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.remotecheckin.co.uk.ico",
     "slug": "remote-check-in-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 255,
-    "timeWeek": 207,
-    "timeMonth": 169,
-    "timeYear": 99,
+    "time": 97,
+    "timeDay": 314,
+    "timeWeek": 228,
+    "timeMonth": 175,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2023-01-08": 0
+      "2023-01-08": 10
     }
   },
   {
