@@ -22,9 +22,9 @@
     "url": "https://www.remotecheckin.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.remotecheckin.co.uk.ico",
     "slug": "remote-check-in-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 208,
     "timeMonth": 176,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   },
   {
     "name": "OptBP Pt",
@@ -97,13 +99,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "opt-bp-api",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "94.44%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 1241,
-    "timeDay": 641,
+    "timeDay": 433,
     "timeWeek": 573,
     "timeMonth": 1241,
     "timeYear": 1241,
