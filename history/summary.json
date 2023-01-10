@@ -78,10 +78,10 @@
     "url": "https://auth.optbp.com/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/auth.optbp.com.ico",
     "slug": "opt-bp-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 545,
@@ -90,6 +90,7 @@
     "timeMonth": 545,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2023-01-10": 1,
       "2022-12-22": 37
     }
   },
