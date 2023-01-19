@@ -101,9 +101,9 @@
     "url": "https://api.optbp.com/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "opt-bp-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.62%",
@@ -113,6 +113,7 @@
     "timeMonth": 1120,
     "timeYear": 1052,
     "dailyMinutesDown": {
+      "2023-01-19": 0,
       "2023-01-08": 80,
       "2022-12-29": 69,
       "2022-12-21": 36
