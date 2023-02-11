@@ -16,6 +16,10 @@ sites:
     url: https://auth.optbp.com/Account/LoginWithPasscode
   - name: OptBP API
     url: https://api.optbp.com/api/practice/additionaldetails/
+  - name: Hangfire
+    url: https://api.optbp.com/hangfire
+    expectedStatusCodes:
+      - 401
   - name: Palma
     url: https://www.comebacktopalma.info/
   - name: Aura-Soma
