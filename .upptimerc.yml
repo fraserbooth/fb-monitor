@@ -9,7 +9,7 @@ sites:
   - name: Remote Check In Site
     url: https://www.remotecheckin.co.uk/
   - name: OptBP Pt
-    url: http://pt.optbp.com/
+    url: https://pt.optbp.com/
   - name: OptBP Clin
     url: https://clin.optbp.com/
   - name: OptBP Auth
@@ -20,6 +20,22 @@ sites:
     url: https://api.optbp.com/hangfire
     expectedStatusCodes:
       - 401
+  - name: OptBP Test Pt
+    url: https://optbp-pt-test.azurewebsites.net/
+  - name: OptBP Test Clin
+    url: https://optbp-clin-test.azurewebsites.net/
+  - name: OptBP Test Auth
+    url: https://optbp-auth-test.azurewebsites.net/Account/LoginWithPasscode
+  - name: OptBP Test API
+    url: https://optbp-api-test.azurewebsites.net/api/practice/additionaldetails/
+  - name: OptBP Dev Pt
+    url: https://optbp-dev-pt.azurewebsites.net/
+  - name: OptBP Dev Clin
+    url: https://optbp-dev-clin.azurewebsites.net/
+  - name: OptBP Dev Auth
+    url: https://optbp-dev-auth.azurewebsites.net/Account/LoginWithPasscode
+  - name: OptBP Dev API
+    url: https://optbp-dev-api.azurewebsites.net/api/practice/additionaldetails/
   - name: Palma
     url: https://www.comebacktopalma.info/
   - name: Aura-Soma
