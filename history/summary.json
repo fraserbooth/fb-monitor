@@ -204,18 +204,20 @@
     "url": "https://optbp-api-test.azurewebsites.net/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/optbp-api-test.azurewebsites.net.ico",
     "slug": "opt-bp-test-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 16519,
-    "timeDay": 16519,
-    "timeWeek": 16519,
-    "timeMonth": 16519,
-    "timeYear": 16519,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.33%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
+    "time": 8554,
+    "timeDay": 8554,
+    "timeWeek": 8554,
+    "timeMonth": 8554,
+    "timeYear": 8554,
+    "dailyMinutesDown": {
+      "2023-02-12": 0
+    }
   },
   {
     "name": "OptBP Dev Pt",
