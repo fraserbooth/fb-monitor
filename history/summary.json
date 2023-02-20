@@ -42,19 +42,19 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pt.optbp.com.ico",
     "slug": "opt-bp-pt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 401,
-    "timeWeek": 575,
-    "timeMonth": 590,
-    "timeYear": 613,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "94.94%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.92%",
+    "time": 631,
+    "timeDay": 1151,
+    "timeWeek": 741,
+    "timeMonth": 629,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-02-20": 2
+      "2023-02-20": 73
     }
   },
   {
@@ -188,18 +188,20 @@
     "url": "https://optbp-auth-test.azurewebsites.net/Account/LoginWithPasscode",
     "icon": "https://icons.duckduckgo.com/ip3/optbp-auth-test.azurewebsites.net.ico",
     "slug": "opt-bp-test-auth",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2322,
     "timeDay": 407,
     "timeWeek": 460,
     "timeMonth": 2322,
     "timeYear": 2322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-20": 1
+    }
   },
   {
     "name": "OptBP Test API",
@@ -283,7 +285,7 @@
     "slug": "opt-bp-dev-api",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "98.19%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
