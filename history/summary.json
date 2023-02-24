@@ -135,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ocr.optbp.com.ico",
     "slug": "opt-bp-ocr",
     "status": "down",
-    "uptime": "4.85%",
-    "uptimeDay": "4.85%",
-    "uptimeWeek": "4.85%",
-    "uptimeMonth": "4.85%",
-    "uptimeYear": "4.85%",
+    "uptime": "3.62%",
+    "uptimeDay": "3.62%",
+    "uptimeWeek": "3.62%",
+    "uptimeMonth": "3.62%",
+    "uptimeYear": "3.62%",
     "time": 470,
     "timeDay": 470,
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2023-02-24": 0
+      "2023-02-24": 1
     }
   },
   {
