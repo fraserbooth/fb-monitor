@@ -16,6 +16,8 @@ sites:
     url: https://auth.optbp.com/Account/LoginWithPasscode
   - name: OptBP API
     url: https://api.optbp.com/api/practice/additionaldetails/
+  - name: OptBP OCR
+    url: https://ocr.optbp.com/
   - name: Hangfire
     url: https://api.optbp.com/hangfire
     expectedStatusCodes:
