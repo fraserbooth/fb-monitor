@@ -146,7 +146,7 @@
     "timeMonth": 413,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2023-03-03": 556,
+      "2023-03-03": 571,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
@@ -406,19 +406,19 @@
     "url": "http://www.pegasus-parfum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pegasus-parfum.com.ico",
     "slug": "pegasus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "70.67%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.92%",
-    "time": 1145,
+    "time": 1144,
     "timeDay": 2892,
     "timeWeek": 1377,
     "timeMonth": 1231,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2023-03-03": 422
+      "2023-03-03": 423
     }
   }
 ]
