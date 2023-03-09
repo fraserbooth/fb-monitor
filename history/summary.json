@@ -146,7 +146,7 @@
     "timeMonth": 402,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-03-09": 72,
+      "2023-03-09": 114,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
@@ -243,10 +243,10 @@
     "url": "https://optbp-api-test.azurewebsites.net/api/practice/additionaldetails/",
     "icon": "https://icons.duckduckgo.com/ip3/optbp-api-test.azurewebsites.net.ico",
     "slug": "opt-bp-test-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1058,
@@ -254,7 +254,9 @@
     "timeWeek": 474,
     "timeMonth": 1058,
     "timeYear": 1058,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-09": 1
+    }
   },
   {
     "name": "OptBP Dev Pt",
