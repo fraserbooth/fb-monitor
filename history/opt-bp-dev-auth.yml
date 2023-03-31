@@ -1,7 +1,7 @@
 url: https://optbp-dev-auth.azurewebsites.net/Account/LoginWithPasscode
 status: up
 code: 200
-responseTime: 648
-lastUpdated: 2023-03-30T23:20:34.610Z
+responseTime: 504
+lastUpdated: 2023-03-31T23:17:00.822Z
 startTime: Sun Feb 12 2023 16:35:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
