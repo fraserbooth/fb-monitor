@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-07-18": 1145,
+      "2023-07-18": 1158,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
@@ -512,19 +512,19 @@
     "url": "https://www.aura-soma.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aura-soma.com.ico",
     "slug": "aura-soma",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2232,
-    "timeDay": 2574,
-    "timeWeek": 1933,
-    "timeMonth": 2215,
-    "timeYear": 2334,
+    "time": 2231,
+    "timeDay": 2284,
+    "timeWeek": 1941,
+    "timeMonth": 2208,
+    "timeYear": 2333,
     "dailyMinutesDown": {
-      "2023-07-18": 0
+      "2023-07-18": 13
     }
   },
   {
