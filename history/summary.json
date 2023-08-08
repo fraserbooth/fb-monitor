@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-08-08": 595,
+      "2023-08-08": 608,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -517,19 +517,19 @@
     "url": "https://www.comebacktopalma.info/",
     "icon": "https://icons.duckduckgo.com/ip3/www.comebacktopalma.info.ico",
     "slug": "palma",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 241,
-    "timeWeek": 231,
+    "timeDay": 220,
+    "timeWeek": 227,
     "timeMonth": 201,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 14
     }
   },
   {
