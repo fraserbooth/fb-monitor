@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-08-08": 500,
+      "2023-08-08": 595,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -387,7 +387,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 698,
-    "timeDay": 1122,
+    "timeDay": 655,
     "timeWeek": 661,
     "timeMonth": 545,
     "timeYear": 698,
@@ -517,9 +517,9 @@
     "url": "https://www.comebacktopalma.info/",
     "icon": "https://icons.duckduckgo.com/ip3/www.comebacktopalma.info.ico",
     "slug": "palma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -528,7 +528,9 @@
     "timeWeek": 231,
     "timeMonth": 201,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-08": 0
+    }
   },
   {
     "name": "Aura-Soma",
