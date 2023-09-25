@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-09-25": 54,
+      "2023-09-25": 142,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
@@ -625,9 +625,9 @@
     "url": "https://www.shirefarm.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shirefarm.co.uk.ico",
     "slug": "shire-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -637,6 +637,7 @@
     "timeMonth": 281,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2023-09-25": 1,
       "2023-09-19": 18,
       "2023-05-05": 18
     }
