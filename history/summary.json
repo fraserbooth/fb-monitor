@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-06": 57,
+      "2024-05-06": 1196,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
@@ -724,10 +724,10 @@
     "url": "https://www.aeos.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.aeos.net.ico",
     "slug": "aeos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
@@ -736,6 +736,7 @@
     "timeMonth": 481,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2024-05-06": 1,
       "2023-11-13": 15
     }
   },
