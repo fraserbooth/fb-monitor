@@ -1,7 +1,7 @@
 url: https://api.optbp.com/api/practice/additionaldetails/
-status: up
-code: 200
-responseTime: 557
-lastUpdated: 2024-10-26T23:20:38.626Z
+status: down
+code: 503
+responseTime: 11350
+lastUpdated: 2024-10-27T13:43:34.970Z
 startTime: 2022-12-16T14:14:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
