@@ -1,7 +1,7 @@
 url: https://optbp-dev-api.azurewebsites.net/api/practice/additionaldetails/
-status: down
-code: 500
-responseTime: 9868
-lastUpdated: 2024-12-10T02:20:44.412Z
+status: up
+code: 200
+responseTime: 958
+lastUpdated: 2024-12-10T03:15:22.016Z
 startTime: 2023-02-12T16:35:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
