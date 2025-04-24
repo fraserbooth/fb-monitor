@@ -34,7 +34,7 @@
     "timeMonth": 269,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-04-24": 240,
+      "2025-04-24": 267,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -198,19 +198,19 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pt.optbp.com.ico",
     "slug": "opt-bp-pt",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 587,
-    "timeDay": 10075,
-    "timeWeek": 2925,
-    "timeMonth": 1131,
+    "timeDay": 6865,
+    "timeWeek": 2649,
+    "timeMonth": 1110,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-04-24": 1
+      "2025-04-24": 27
     }
   },
   {
@@ -289,7 +289,7 @@
     "timeMonth": 19642,
     "timeYear": 19642,
     "dailyMinutesDown": {
-      "2025-04-24": 240,
+      "2025-04-24": 267,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -948,17 +948,17 @@
     "slug": "pegasus",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "19.04%",
-    "uptimeWeek": "88.43%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "99.78%",
+    "uptimeDay": "17.15%",
+    "uptimeWeek": "88.16%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "99.77%",
     "time": 1406,
     "timeDay": 0,
     "timeWeek": 1067,
     "timeMonth": 1154,
     "timeYear": 1352,
     "dailyMinutesDown": {
-      "2025-04-24": 240,
+      "2025-04-24": 267,
       "2025-04-23": 926
     }
   }
