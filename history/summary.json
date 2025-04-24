@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.30%",
+    "uptimeYear": "57.29%",
     "time": 287,
     "timeDay": 241,
     "timeWeek": 287,
     "timeMonth": 269,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-04-24": 653,
+      "2025-04-24": 698,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -198,19 +198,19 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pt.optbp.com.ico",
     "slug": "opt-bp-pt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 587,
-    "timeDay": 6865,
-    "timeWeek": 2649,
-    "timeMonth": 1110,
-    "timeYear": 604,
+    "time": 625,
+    "timeDay": 10054,
+    "timeWeek": 4347,
+    "timeMonth": 1655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-04-24": 27
+      "2025-04-24": 28
     }
   },
   {
@@ -260,17 +260,16 @@
     "slug": "opt-bp-api",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 782,
     "timeDay": 7020,
     "timeWeek": 2694,
     "timeMonth": 1120,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-04-24": 10,
       "2024-05-10": 17
     }
   },
@@ -291,7 +290,7 @@
     "timeMonth": 19642,
     "timeYear": 19642,
     "dailyMinutesDown": {
-      "2025-04-24": 653,
+      "2025-04-24": 698,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -665,18 +664,16 @@
     "slug": "hangfire",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 6542,
     "timeWeek": 2273,
     "timeMonth": 749,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2025-04-24": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OptBP Test Pt",
@@ -953,16 +950,16 @@
     "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.34%",
-    "uptimeMonth": "96.40%",
-    "uptimeYear": "99.70%",
+    "uptimeWeek": "83.89%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "99.69%",
     "time": 1406,
     "timeDay": 0,
     "timeWeek": 1067,
     "timeMonth": 1154,
     "timeYear": 1352,
     "dailyMinutesDown": {
-      "2025-04-24": 653,
+      "2025-04-24": 698,
       "2025-04-23": 926
     }
   }
