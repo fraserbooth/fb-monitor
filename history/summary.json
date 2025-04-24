@@ -34,7 +34,7 @@
     "timeMonth": 269,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-04-24": 698,
+      "2025-04-24": 706,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -198,19 +198,19 @@
     "url": "https://pt.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pt.optbp.com.ico",
     "slug": "opt-bp-pt",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 625,
-    "timeDay": 10054,
-    "timeWeek": 4347,
-    "timeMonth": 1655,
+    "timeDay": 8144,
+    "timeWeek": 3997,
+    "timeMonth": 1622,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-04-24": 28
+      "2025-04-24": 35
     }
   },
   {
@@ -290,7 +290,7 @@
     "timeMonth": 19642,
     "timeYear": 19642,
     "dailyMinutesDown": {
-      "2025-04-24": 698,
+      "2025-04-24": 706,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -950,8 +950,8 @@
     "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.89%",
-    "uptimeMonth": "96.29%",
+    "uptimeWeek": "83.81%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "99.69%",
     "time": 1406,
     "timeDay": 0,
@@ -959,7 +959,7 @@
     "timeMonth": 1154,
     "timeYear": 1352,
     "dailyMinutesDown": {
-      "2025-04-24": 698,
+      "2025-04-24": 707,
       "2025-04-23": 926
     }
   }
