@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.remotecheckin.co.uk.ico",
     "slug": "remote-check-in-site",
     "status": "down",
-    "uptime": "89.16%",
+    "uptime": "89.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.06%",
+    "uptimeYear": "56.04%",
     "time": 288,
     "timeDay": 274,
     "timeWeek": 263,
     "timeMonth": 267,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-04-28": 1433,
+      "2025-04-29": 80,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -263,10 +264,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "opt-bp-api",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 780,
     "timeDay": 487,
@@ -274,7 +275,6 @@
     "timeMonth": 1084,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2025-04-28": 9,
       "2024-05-10": 17
     }
   },
@@ -295,7 +295,8 @@
     "timeMonth": 19619,
     "timeYear": 19627,
     "dailyMinutesDown": {
-      "2025-04-28": 1433,
+      "2025-04-29": 80,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -658,8 +659,7 @@
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
-      "2024-04-30": 1440,
-      "2024-04-29": 1440
+      "2024-04-30": 1440
     }
   },
   {
@@ -669,18 +669,16 @@
     "slug": "hangfire",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 206,
     "timeWeek": 1904,
     "timeMonth": 718,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2025-04-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OptBP Test Pt",
@@ -955,18 +953,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pegasus-parfum.com.ico",
     "slug": "pegasus",
     "status": "down",
-    "uptime": "99.60%",
+    "uptime": "99.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "19.46%",
-    "uptimeMonth": "81.47%",
-    "uptimeYear": "98.46%",
+    "uptimeWeek": "18.59%",
+    "uptimeMonth": "81.27%",
+    "uptimeYear": "98.44%",
     "time": 1408,
     "timeDay": 0,
     "timeWeek": 1172,
     "timeMonth": 1195,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2025-04-28": 1433,
+      "2025-04-29": 80,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
