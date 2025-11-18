@@ -37,7 +37,7 @@
     "timeMonth": 390,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2025-11-18": 930,
+      "2025-11-18": 947,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -431,19 +431,19 @@
     "url": "https://clin.optbp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/clin.optbp.com.ico",
     "slug": "opt-bp-clin",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "90.38%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 570,
-    "timeDay": 272,
-    "timeWeek": 525,
-    "timeMonth": 549,
+    "timeDay": 312,
+    "timeWeek": 520,
+    "timeMonth": 546,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2025-11-18": 123
+      "2025-11-18": 139
     }
   },
   {
@@ -509,7 +509,7 @@
     "timeMonth": 19610,
     "timeYear": 19638,
     "dailyMinutesDown": {
-      "2025-11-18": 930,
+      "2025-11-18": 947,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -974,7 +974,7 @@
     "timeMonth": 505,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-11-18": 930,
+      "2025-11-18": 947,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1097,7 +1097,7 @@
     "timeMonth": 489,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-11-18": 930,
+      "2025-11-18": 948,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
