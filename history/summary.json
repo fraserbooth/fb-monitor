@@ -37,7 +37,7 @@
     "timeMonth": 173,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2026-07-28": 9,
+      "2026-07-28": 15,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -489,7 +489,7 @@
     "dailyMinutesDown": {
       "2025-09-16": 20,
       "2025-11-18": 137,
-      "2026-07-28": 9,
+      "2026-07-28": 15,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -729,10 +729,10 @@
     "time": 19620,
     "timeDay": 19370,
     "timeWeek": 19419,
-    "timeMonth": 19549,
+    "timeMonth": 19544,
     "timeYear": 19627,
     "dailyMinutesDown": {
-      "2026-07-28": 9,
+      "2026-07-28": 15,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -1113,7 +1113,7 @@
     "time": 243,
     "timeDay": 280,
     "timeWeek": 375,
-    "timeMonth": 319,
+    "timeMonth": 324,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -1135,7 +1135,7 @@
     "time": 695,
     "timeDay": 359,
     "timeWeek": 448,
-    "timeMonth": 832,
+    "timeMonth": 847,
     "timeYear": 618,
     "dailyMinutesDown": {}
   },
@@ -1153,7 +1153,7 @@
     "time": 650,
     "timeDay": 387,
     "timeWeek": 428,
-    "timeMonth": 776,
+    "timeMonth": 789,
     "timeYear": 600,
     "dailyMinutesDown": {}
   },
@@ -1171,7 +1171,7 @@
     "time": 833,
     "timeDay": 405,
     "timeWeek": 477,
-    "timeMonth": 2674,
+    "timeMonth": 2750,
     "timeYear": 931,
     "dailyMinutesDown": {}
   },
@@ -1189,10 +1189,10 @@
     "time": 763,
     "timeDay": 364,
     "timeWeek": 431,
-    "timeMonth": 468,
+    "timeMonth": 473,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2026-07-28": 10,
+      "2026-07-28": 15,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -1501,7 +1501,7 @@
     "time": 724,
     "timeDay": 1436,
     "timeWeek": 1626,
-    "timeMonth": 1690,
+    "timeMonth": 1684,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2026-06-24": 134
@@ -1521,7 +1521,7 @@
     "time": 698,
     "timeDay": 1460,
     "timeWeek": 1445,
-    "timeMonth": 1579,
+    "timeMonth": 1584,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2026-06-24": 134
@@ -1541,7 +1541,7 @@
     "time": 2539,
     "timeDay": 16253,
     "timeWeek": 8051,
-    "timeMonth": 11512,
+    "timeMonth": 11260,
     "timeYear": 3196,
     "dailyMinutesDown": {
       "2025-09-24": 216,
@@ -1557,18 +1557,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/optbp-dev-api.azurewebsites.net.ico",
     "slug": "opt-bp-dev-api",
     "status": "down",
-    "uptime": "75.70%",
+    "uptime": "75.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "16.07%",
+    "uptimeYear": "16.06%",
     "time": 863,
     "timeDay": 361,
     "timeWeek": 439,
-    "timeMonth": 470,
+    "timeMonth": 475,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2026-07-28": 10,
+      "2026-07-28": 16,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
       "2026-07-25": 1440,
@@ -1910,7 +1910,7 @@
     "time": 736,
     "timeDay": 680,
     "timeWeek": 609,
-    "timeMonth": 641,
+    "timeMonth": 647,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2025-10-07": 19,
@@ -1946,7 +1946,7 @@
     "time": 698,
     "timeDay": 449,
     "timeWeek": 633,
-    "timeMonth": 694,
+    "timeMonth": 702,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2025-10-07": 19,
@@ -1982,7 +1982,7 @@
     "time": 267,
     "timeDay": 312,
     "timeWeek": 192,
-    "timeMonth": 227,
+    "timeMonth": 233,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -1991,16 +1991,16 @@
     "url": "http://www.pegasus-parfum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pegasus-parfum.com.ico",
     "slug": "pegasus",
-    "status": "down",
+    "status": "up",
     "uptime": "96.50%",
-    "uptimeDay": "78.12%",
-    "uptimeWeek": "72.82%",
-    "uptimeMonth": "86.91%",
+    "uptimeDay": "77.77%",
+    "uptimeWeek": "72.77%",
+    "uptimeMonth": "86.89%",
     "uptimeYear": "98.82%",
-    "time": 802,
-    "timeDay": 679,
-    "timeWeek": 633,
-    "timeMonth": 668,
+    "time": 801,
+    "timeDay": 699,
+    "timeWeek": 636,
+    "timeMonth": 671,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2025-10-07": 19,
@@ -2026,7 +2026,7 @@
       "2026-07-25": 815,
       "2026-07-26": 491,
       "2026-07-27": 314,
-      "2026-07-28": 1
+      "2026-07-28": 6
     }
   }
 ]
