@@ -14,7 +14,7 @@
     "timeDay": 292,
     "timeWeek": 232,
     "timeMonth": 232,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2025-10-02": 15,
       "2025-11-18": 143
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.remotecheckin.co.uk.ico",
     "slug": "remote-check-in-site",
     "status": "down",
-    "uptime": "68.13%",
+    "uptime": "68.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -35,9 +35,9 @@
     "timeDay": 231,
     "timeWeek": 156,
     "timeMonth": 177,
-    "timeYear": 427,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2026-07-29": 1166,
+      "2026-07-29": 1416,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -419,7 +419,7 @@
     "timeDay": 545,
     "timeWeek": 435,
     "timeMonth": 485,
-    "timeYear": 613,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-10-03": 57,
       "2025-11-18": 136
@@ -461,7 +461,7 @@
     "timeDay": 554,
     "timeWeek": 475,
     "timeMonth": 568,
-    "timeYear": 824,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-08-28": 27,
       "2025-11-18": 121,
@@ -476,11 +476,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.optbp.com.ico",
     "slug": "opt-bp-api",
     "status": "down",
-    "uptime": "82.70%",
+    "uptime": "82.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.55%",
+    "uptimeYear": "38.50%",
     "time": 613,
     "timeDay": 380,
     "timeWeek": 315,
@@ -489,7 +489,7 @@
     "dailyMinutesDown": {
       "2025-09-16": 20,
       "2025-11-18": 137,
-      "2026-07-29": 1166,
+      "2026-07-29": 1417,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -733,7 +733,7 @@
     "timeMonth": 19539,
     "timeYear": 19626,
     "dailyMinutesDown": {
-      "2026-07-29": 1166,
+      "2026-07-29": 1417,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1137,7 +1137,7 @@
     "timeDay": 496,
     "timeWeek": 441,
     "timeMonth": 852,
-    "timeYear": 618,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -1155,7 +1155,7 @@
     "timeDay": 499,
     "timeWeek": 420,
     "timeMonth": 795,
-    "timeYear": 600,
+    "timeYear": 601,
     "dailyMinutesDown": {}
   },
   {
@@ -1182,18 +1182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/optbp-api-test.azurewebsites.net.ico",
     "slug": "opt-bp-test-api",
     "status": "down",
-    "uptime": "76.79%",
+    "uptime": "76.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.74%",
+    "uptimeYear": "19.70%",
     "time": 741,
     "timeDay": 458,
     "timeWeek": 417,
     "timeMonth": 477,
-    "timeYear": 676,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-07-29": 1166,
+      "2026-07-29": 1417,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1504,7 +1504,7 @@
     "timeDay": 1721,
     "timeWeek": 1618,
     "timeMonth": 1684,
-    "timeYear": 803,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2026-06-24": 134
     }
@@ -1524,7 +1524,7 @@
     "timeDay": 1538,
     "timeWeek": 1455,
     "timeMonth": 1585,
-    "timeYear": 781,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2026-06-24": 134
     }
@@ -1544,7 +1544,7 @@
     "timeDay": 15296,
     "timeWeek": 8670,
     "timeMonth": 11458,
-    "timeYear": 3236,
+    "timeYear": 3242,
     "dailyMinutesDown": {
       "2025-09-24": 216,
       "2025-10-14": 108,
@@ -1559,18 +1559,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/optbp-dev-api.azurewebsites.net.ico",
     "slug": "opt-bp-dev-api",
     "status": "down",
-    "uptime": "75.59%",
+    "uptime": "75.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.57%",
+    "uptimeYear": "15.52%",
     "time": 862,
     "timeDay": 431,
     "timeWeek": 422,
     "timeMonth": 478,
-    "timeYear": 982,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2026-07-29": 1166,
+      "2026-07-29": 1417,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1950,7 +1950,7 @@
     "timeDay": 843,
     "timeWeek": 599,
     "timeMonth": 710,
-    "timeYear": 764,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-12-05": 23,
@@ -1994,17 +1994,17 @@
     "url": "http://www.pegasus-parfum.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pegasus-parfum.com.ico",
     "slug": "pegasus",
-    "status": "down",
+    "status": "up",
     "uptime": "96.47%",
-    "uptimeDay": "54.22%",
-    "uptimeWeek": "66.80%",
-    "uptimeMonth": "84.87%",
-    "uptimeYear": "98.65%",
-    "time": 793,
-    "timeDay": 924,
-    "timeWeek": 694,
-    "timeMonth": 695,
-    "timeYear": 771,
+    "uptimeDay": "46.52%",
+    "uptimeWeek": "64.33%",
+    "uptimeMonth": "84.30%",
+    "uptimeYear": "98.60%",
+    "time": 792,
+    "timeDay": 832,
+    "timeWeek": 698,
+    "timeMonth": 697,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-16": 26,
@@ -2030,7 +2030,7 @@
       "2026-07-26": 491,
       "2026-07-27": 314,
       "2026-07-28": 374,
-      "2026-07-29": 521
+      "2026-07-29": 770
     }
   }
 ]
