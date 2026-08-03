@@ -1,7 +1,7 @@
 url: http://www.pegasus-parfum.com/
-status: down
-code: 429
-responseTime: 409
-lastUpdated: 2026-08-02T20:52:08.352Z
+status: up
+code: 200
+responseTime: 805
+lastUpdated: 2026-08-03T00:05:38.765Z
 startTime: 2021-04-10T07:21:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
